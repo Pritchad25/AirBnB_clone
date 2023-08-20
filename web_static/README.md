@@ -1,0 +1,13 @@
+This directory contains the Web Static version of the AirBnB clone project. Previously I built a command interpreter for managing the  AirBnB objects. This Web Static project is to make those objects alive using HTML and CSS. While doing this project, I learnt:
+-how to manipulate HTML and CSS languages
+-How to create an HTML page
+-What is a markup language
+-What is the DOM
+-What is an element / tag
+-What is an attribute
+-How a browser loads a webpage
+-What is CSS
+-How to add style to an element
+-What is a class
+-What is a selector
+-How to compute CSS Specificity Value
